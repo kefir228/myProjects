@@ -134,13 +134,13 @@ body{
     box-sizing: border-box;
 }
 .section__item--women{
-    background-image: url(..//project1.html/img/Rectangle\ 9.png);
+    background-image: url(./img/Rectangle\ 9.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
 }
 .section__item--men{
-    background-image: url(..//project1.html/img/Rectangle\ 10.png);
+    background-image: url(./img/Rectangle\ 10.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
