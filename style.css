@@ -118,7 +118,7 @@ body{
 }
 
 .text{
-    padding: 30.08px 54.34px 0px 0px;
+    padding: 30px 54px 0px 0px;
     display: flex;
     justify-content: space-between;
 }
@@ -474,5 +474,31 @@ font-weight: 400;
         border: none;
         padding: 0;
         margin: 0;
+    }
+    .burger{
+        display: none;
+        position: fixed;
+        top: 0;
+        left: 0;
+        background: #C4C4C4;
+        width: 100%;
+        height:100% ;
+    }
+    .burger__show{
+        display: block;
+    }
+    .burger__list{
+        display: block;
+    }
+    .main__text{
+        flex-direction: column-reverse;
+    }
+    .shoes__first{
+        width: 100%;
+
+    }
+    .shoes__second{
+        width: 241.834px;
+        height: 288.086px;
     }
 }
