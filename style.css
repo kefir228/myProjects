@@ -370,7 +370,7 @@ font-weight: 400;
     .new__btn:active{
         transform: scale(0.9);
     }
-    .new__shoppy{
+    .nav__btn{
         width: 163px;
         height: 46px;
         font-size: 16px;
@@ -381,6 +381,10 @@ font-weight: 400;
         border: none;
         padding: 0;
         margin: 0;
+        transition: all 0.3s;
+    }
+    .nav__btn:active{
+        transform: scale(0.9);
     }
     .burger{
         display: none;
@@ -407,11 +411,23 @@ font-weight: 400;
         width: 100%;
         position: inherit;
     }
+    .text__list{
+        align-items: center;
+        padding: 0;
+        text-align: center;
+    }
+    .text__item__first{
+        padding: 0;
+    }
+    .text__item{
+        padding: 0 0 40px 0;
+    }
     .section__list{   
         display: flex;
         flex-direction: column-reverse;
         box-sizing: border-box;
         gap: 25px;
+        
     }
     .section__item--women{
         display: flex;
@@ -431,19 +447,11 @@ font-weight: 400;
         display: flex;
         flex-wrap: wrap;
     }
-    .text__list{
-        align-items: center;
-        padding: 0;
-        text-align: center;
-    }
-    .text__item__first{
-        padding: 0;
-    }
     .main__text{
         padding: 0;
     }
     .article{
-        padding: 0;
+        padding: 85px 0 85px 0;
     }
 }
 
@@ -474,7 +482,7 @@ font-weight: 400;
     .new__btn:active{
         transform: scale(0.9);
     }
-    .new__shoppy{
+    .nav__btn{
         width: 163px;
         height: 46px;
         font-size: 16px;
@@ -485,6 +493,10 @@ font-weight: 400;
         border: none;
         padding: 0;
         margin: 0;
+        transition: all 0.3s;
+    }
+    .nav__btn:active{
+        transform: scale(0.9);
     }
     .burger{
         display: none;
