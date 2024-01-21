@@ -228,7 +228,7 @@ font-weight: 400;
 
 
 .article{
-    padding: 182.63px 585px 156px 585px;
+    padding: 183px 0 156px 0;
 }
 .article__text{
     padding: 0;
@@ -240,6 +240,8 @@ font-weight: 400;
     gap:  22px;
 }
 .article__first{
+    height: 80px;
+    width: 235px;
     font-size: 40px;
     font-style: normal;
     font-weight: 800;
@@ -335,7 +337,7 @@ font-weight: 400;
 }
 
 
-@media (max-width: 391px){
+@media (max-width: 414px){
     .nav__list{
         display: none;
     }
