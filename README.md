@@ -1,1 +1,1 @@
-[DemoLink](https://kefir228.github.io/myProjects/)
+[DemoLink](https://kefir228.github.io/myProjects/shoppy)
