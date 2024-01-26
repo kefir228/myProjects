@@ -25,11 +25,8 @@
     list-style: none;
     transition: all 0.3s;
     animation: colorChange 5s;
-    
-    
 }
 .cubes__item:hover{
-    
     background-color:green;
 }
 .cubes__item:active{

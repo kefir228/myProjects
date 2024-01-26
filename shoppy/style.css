@@ -110,7 +110,12 @@ body{
 }
 .shoes__second{
     padding: 30px 24px 0 0;
-    
+}
+.shoes__first__img{
+    width: 100%;
+}
+.shoes__second__img{
+    width: 100%;
 }
 .text__list{
     box-sizing: border-box;
@@ -511,15 +516,6 @@ font-weight: 400;
         align-items: center;
         padding: 0;
         text-align: center;
-    }
-    .text__list__sh{
-        max-width: 300px;
-    }
-    .shoes__first{
-        width: 100px;
-    }
-    .shoes__second{
-        width: 100px;
     }
     .text__item__first{
         padding: 0;
