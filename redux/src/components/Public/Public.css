@@ -1,0 +1,11 @@
+body{
+    background-color: darkblue;
+    padding: 0;
+    margin: 0;
+}
+
+.public-container{
+    background-color: darkblue;
+    margin: 0;
+    padding: 0;
+}

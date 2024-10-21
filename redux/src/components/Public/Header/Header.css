@@ -1,0 +1,20 @@
+.header__list {
+    padding: 60px 40px 0 40px;
+    margin: 0;
+    display: flex;
+    list-style: none;
+    color: white;
+    align-items: center;
+    gap: 10px;
+}
+
+.email,
+.date {
+    opacity: 0.2;
+}
+
+.avatar__photo {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}

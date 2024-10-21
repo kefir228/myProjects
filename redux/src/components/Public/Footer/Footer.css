@@ -1,0 +1,11 @@
+.footer__list{
+    width: 65%;
+    display: flex;
+    list-style: none;
+    justify-content: space-around;
+}
+.footer__item{
+    opacity: 0.3;
+    color: white;
+    cursor: pointer;
+}
