@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/kefir228/Redux.git/static/css/main.b02039b2.css",
+    "main.js": "/kefir228/Redux.git/static/js/main.630a8f81.js",
+    "static/media/yoda.jpg": "/kefir228/Redux.git/static/media/yoda.973beacdf4418e8018a7.jpg",
+    "static/media/anakin.jpg": "/kefir228/Redux.git/static/media/anakin.271d35b8df84c4cc5dcb.jpg",
+    "static/media/yoda-post.jpg": "/kefir228/Redux.git/static/media/yoda-post.2e60a0a83aa941498c32.jpg",
+    "static/media/kenobiPost.jpg": "/kefir228/Redux.git/static/media/kenobiPost.5e128f1940189153efd5.jpg",
+    "static/media/kenobi.jpg": "/kefir228/Redux.git/static/media/kenobi.3f67395aa9ffe30ab83a.jpg",
+    "static/media/960x0.jpg": "/kefir228/Redux.git/static/media/960x0.96a88142898d54bf25ac.jpg",
+    "index.html": "/kefir228/Redux.git/index.html",
+    "main.b02039b2.css.map": "/kefir228/Redux.git/static/css/main.b02039b2.css.map",
+    "main.630a8f81.js.map": "/kefir228/Redux.git/static/js/main.630a8f81.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b02039b2.css",
+    "static/js/main.630a8f81.js"
+  ]
+}
